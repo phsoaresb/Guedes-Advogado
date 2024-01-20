@@ -9,7 +9,7 @@ body {
     background-size: cover;
     text-align: right;
     padding: 50px 20px;
-    min-height: 70%;
+    max-height: 70%;
     margin: 0px auto;
     font-size: 22px;
 }
